@@ -1,0 +1,21 @@
+{
+  "name": "intelly",
+  "version": "0.0.1",
+  "description": "JS implementation of a group of machine learning mechanisms",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "intelligence",
+    "svm",
+    "ai",
+    "artificial"
+  ],
+  "author": "Marco Oliveira <marcooliveira@me.com>",
+  "license": "MIT"
+}
