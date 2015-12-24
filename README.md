@@ -1,5 +1,7 @@
 # Intelly
 
+[work in progress]
+
 ## Introduction
 
 ```js
