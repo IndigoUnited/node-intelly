@@ -1,6 +1,6 @@
 {
   "name": "intelly",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "JS implementation of a group of machine learning mechanisms",
   "main": "index.js",
   "dependencies": {},
